@@ -25,7 +25,9 @@
   
 <a href="https://www.kinopoisk.ru/film/276598/?utm_referrer=www.google.com"> Мой любимый фильм </a>
 ![image](https://github.com/Vladosik001/myprofile/assets/152333397/34256bca-a9d9-44e7-b84a-38a5a3e37ff3)
+
 🤟
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
